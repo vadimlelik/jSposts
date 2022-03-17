@@ -31,8 +31,7 @@ async function submitHandler(event) {
         await apiService.creatPosts(formData)
 
         this.form.clear()
-        alert('Запись создана в базе данных '
-        )
+        alert('Запись создана в базе данных ')
 
     }
 

@@ -13,7 +13,6 @@ export class Component {
     onHide() {
 
     }
-
     hide() {
         this.$el.classList.add('hide')
         this.onHide()

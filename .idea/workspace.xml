@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6739083-2417-4b27-ae8b-a4756e692372" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoaderComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/create.components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/create.components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts.components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts.components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/transform.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/transform.services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +46,24 @@
       <option name="presentableId" value="Default" />
       <updated>1646894307081</updated>
       <workItem from="1646894310357" duration="595000" />
+      <workItem from="1647333564719" duration="1892000" />
+      <workItem from="1647502246011" duration="1679000" />
+      <workItem from="1647503960739" duration="3782000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
